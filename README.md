@@ -207,7 +207,7 @@ After observing some test cases, we noticed that footprints follows three main  
 <a id='contributor'></a>
 # Contributors: 
 * Osama Hussein
-* Mahmoud Elhusseni
+* [Mahmoud Elhusseni](https://github.com/MahmoudEl-Husseni)
 * Karim Nady
 * Mazen Elnahla
 * Mahmoud Hosam 
